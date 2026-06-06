@@ -23,7 +23,50 @@ function Projects() {
 
             live: "#",
 
-            github: "#",
+            github: "https://github.com/Vivek003-coder/AgriHarvest",
+        },
+
+        {
+            title: "Portfolio V2",
+
+            image: "/images/portfolio_V2.png",
+
+            description:
+                "A modern and responsive personal portfolio website showcasing projects, technical skills, and achievements. Built with a clean UI, smooth animations, and optimized performance for an engaging user experience.",
+
+            tech: [
+                "React",
+                "JavaScript",
+                "CSS3",
+                "React Router",
+            ],
+
+            live: "#",
+
+            github: "https://github.com/Vivek003-coder/Portfolio_V2",
+        },
+
+        {
+            title: "Online Voting System",
+
+            image: "/images/online-voting-system.png",
+
+            description:
+                "A secure web-based voting platform that enables users to register, authenticate, and cast votes digitally. The system provides efficient election management, transparent vote counting, and real-time result tracking through an intuitive user interface.",
+
+            tech: [
+                "Java",
+                "JSP",
+                "Servlet",
+                "MySQL",
+                "HTML",
+                "CSS",
+                "JavaScript",
+            ],
+
+            live: "#",
+
+            github: "https://github.com/Vivek003-coder/online-voting-system",
         },
 
         {
