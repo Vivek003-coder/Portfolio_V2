@@ -72,7 +72,7 @@ function Projects() {
         {
             title: "Adgorithm",
 
-            image: "/images/agriharvest.png",
+            image: "/images/Adgorithm.png",
 
             description:
                 "A service providing website focused on modern UI and animations.",
@@ -91,7 +91,7 @@ function Projects() {
         {
             title: "DevGemini",
 
-            image: "/images/agriharvest.png",
+            image: "/images/DevGemini.png",
 
             description:
                 "Hospital and bed management system useful for medical conditions.",
