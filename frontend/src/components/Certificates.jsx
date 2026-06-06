@@ -26,17 +26,36 @@ function Certificates() {
         {
             id: 2,
             title: "MySQL",
-            organization: "Oracle",
-            date: "2024",
-            image: "/certificates/mysql.jpg",
+            organization: "GUVI - HCL",
+            date: "January 2025",
+            image: "/images/mysql-guvi.png",
+            credentialUrl: "https://www.guvi.in/share-certificate/8sl77j5ri164p335w4",
         },
 
         {
             id: 3,
+            title: "Mastering MongoDB",
+            organization: "GUVI - HCL",
+            date: "January 2025",
+            image: "/images/mongodb-guvi.png",
+            credentialUrl: "https://www.guvi.in/share-certificate/8sl77j5ri164p335w4",
+        },
+
+        {
+            id: 4,
             title: "Google Cloud Arcade",
             organization: "Google",
             date: "2025",
             image: "/certificates/google.jpg",
+        },
+
+        {
+            id: 5,
+            title: "Java for Beginners",
+            organization: "GUVI - HCL",
+            date: "January 2025",
+            image: "/images/java-guvi.png",
+            credentialUrl: "https://www.guvi.in/share-certificate/45M1n8d36718u3sxce",
         },
     ];
 
