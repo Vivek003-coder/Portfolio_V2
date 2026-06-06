@@ -41,7 +41,7 @@ function Projects() {
                 "React Router",
             ],
 
-            live: "#",
+            live: "https://portfolio-v2-blond-iota.vercel.app/#contact",
 
             github: "https://github.com/Vivek003-coder/Portfolio_V2",
         },
