@@ -1,10 +1,9 @@
 import {
     FaJava,
-    FaReact,
-    FaNodeJs,
-    FaPython,
     FaHtml5,
     FaCss3Alt,
+    FaGitAlt,
+    FaGithub,
 } from "react-icons/fa";
 
 import {
@@ -15,7 +14,11 @@ import {
     SiPostgresql,
     SiC,
     SiCplusplus,
+    SiApachemaven,
 } from "react-icons/si";
+
+import { MdApi } from "react-icons/md";
+import { TbBraces } from "react-icons/tb";
 
 function Skills() {
     const skills = [
@@ -58,6 +61,22 @@ function Skills() {
         {
             icon: <SiJavascript />,
             name: "JavaScript",
+        },
+        {
+            icon: <FaGitAlt />,
+            name: "Git",
+        },
+        {
+            icon: <FaGithub />,
+            name: "GitHub",
+        },
+        {
+            icon: <SiApachemaven />,
+            name: "Maven",
+        },
+        {
+            icon: <MdApi />,
+            name: "REST API",
         },
     ];
 
