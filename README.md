@@ -8,7 +8,7 @@ A modern and responsive personal portfolio website built with React and Vite to 
 
 ## 📸 Preview
 
-![Portfolio Preview](./public/images/portfolio-preview.png)
+<img width="1894" height="947" alt="Screenshot 2026-06-06 202237" src="https://github.com/user-attachments/assets/3e285244-f53c-4294-adcc-a99db6c5b878" />
 
 ---
 
